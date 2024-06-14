@@ -1,2 +1,6 @@
 # HyRect-Change
 HYRET-CHANGE: A HYBRID RETENTIVE NETWORK FOR REMOTE SENSING CHANGE DETECTION
+
+**Accepted at IEEE ICIP 2024!**
+
+**Code is Coming soon!**

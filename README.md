@@ -1,6 +1,6 @@
 # HYRET-CHANGE: A HYBRID RETENTIVE NETWORK FOR REMOTE SENSING CHANGE DETECTION
 
-#### [Mustansar Fiaz](https://sites.google.com/view/mustansarfiaz/home), [Mubashir Noman](https://scholar.google.com/citations?user=S6_CVskAAAAJ&hl=en),  [Hiyam Debary](https://www.linkedin.com/in/hiyam-debary/), [Kamran Ali](https://scholar.google.com/citations?user=JuQ_vNIAAAAJ&hl=en), [Hisham Cholakkal](https://hishamcholakkal.com/),
+#### [Mustansar Fiaz](https://sites.google.com/view/mustansarfiaz/home), [Mubashir Noman](https://scholar.google.com/citations?user=S6_CVskAAAAJ&hl=en),  [Hiyam Debary](https://www.linkedin.com/in/hiyam-debary/), [Kamran Ali](https://scholar.google.com/citations?user=JuQ_vNIAAAAJ&hl=en), [Hisham Cholakkal](https://hishamcholakkal.com/)
 This repo contains the official **PyTorch** code for HYRET-CHANGE: A HYBRID RETENTIVE NETWORK FOR REMOTE SENSING CHANGE DETECTION [[Arxiv]](https://arxiv.org/pdf/2506.12836). 
 
 ---

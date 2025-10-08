@@ -97,7 +97,7 @@ Change detection data set with pixel-level binary labels；
 
 ### Contact
 
-If you have any question, please feel free to contact the authors. Mustansar Fiaz: [mustansar.fiaz@mbzuai.ac.ae](mailto:mustansar.fiaz@ibm.com) or Mubashir Noman: [mubashir.noman@mbzuai.ac.ae](mailto:mubashir.noman@mbzuai.ac.ae).
+If you have any question, please feel free to contact the authors. Mustansar Fiaz: [mustansar.fiaz@ibm.com](mailto:mustansar.fiaz@ibm.com) or Mubashir Noman: [mubashir.noman@mbzuai.ac.ae](mailto:mubashir.noman@mbzuai.ac.ae).
 
 ## References
 Our code is based on [Changebind](https://github.com/techmn/changebind) repository. 

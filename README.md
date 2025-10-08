@@ -1,28 +1,33 @@
 # HYRET-CHANGE: A HYBRID RETENTIVE NETWORK FOR REMOTE SENSING CHANGE DETECTION
 
+#### [Mustansar Fiaz](https://sites.google.com/view/mustansarfiaz/home), [Mubashir Noman](https://scholar.google.com/citations?user=S6_CVskAAAAJ&hl=en),  [Hiyam Debary](https://www.linkedin.com/in/hiyam-debary/), [Kamran Ali](https://scholar.google.com/citations?user=JuQ_vNIAAAAJ&hl=en), [Hisham Cholakkal](https://hishamcholakkal.com/),
 This repo contains the official **PyTorch** code for HYRET-CHANGE: A HYBRID RETENTIVE NETWORK FOR REMOTE SENSING CHANGE DETECTION [[Arxiv]](https://arxiv.org/pdf/2506.12836). 
 
-**Code is released!**
+---
 
-Highlights
+### 🏆 Highlights
 -----------------
 - **HyRet-Change:** We propose a Siamese-based framework, which can seamlessly integrate the merits of convolution and retention mechanisms at multi-scale features to preserve critical information and enhance adaptability in complex scenes change detection (CD).  Specifically, we propose a hybrid plug-and-play feature difference module (FDM) to explore rich feature information utilizing both self-attention and convolution operations in a parallel way. This unique integration, at multi-scale features, leverages the
 advantages of both local features and long-range contextual information. We introduce a retention mechanism in our novel FDM to mitigate the limitations of standard self-attention.
 - **Local-Global (LG)-Interaction Module:** We introduce an adaptive interaction between local and global representations to exploit the intricate relationship contextually to strengthen the model’s ability to perceive meaningful changes while reducing the effect of pseudo-changes.
 - **Experiments:** Our extensive experimental study over three challenging CD datasets demonstrates the merits of our approach while achieving state-of-the-art performance.
 
-### :speech_balloon: Proposed Framework
+---
+### 👁️💬 Proposed Framework
 -----------------
 <img width="1096" alt="image" src="https://github.com/mustansarfiaz/HyRect-Change/blob/main/images/fig1.png">
 
-### :speech_balloon: Quantitative Comparison
+---
+###  📊 Quantitative Comparison
 -----------------
 <img width="1096" alt="image" src="https://github.com/mustansarfiaz/HyRect-Change/blob/main/images/table1.png">
 
+---
 ### :speech_balloon: Qualitative Comparison from the LEVIR-CD (first row) and WHU-CD (second row) datasets
 -----------------
 <img width="1096" alt="image" src="https://github.com/mustansarfiaz/HyRect-Change/blob/main/images/qualitative.png">
 
+---
 
 ### Requirements
 ```
@@ -33,7 +38,7 @@ einops  0.3.2
 ```
 
 Please see `requirements.txt` for all the other requirements.
-
+---
 ### :speech_balloon: Dataset Preparation
 
 ### :point_right: Data structure
@@ -56,7 +61,7 @@ Change detection data set with pixel-level binary labels；
 
 `list`: contains `train.txt, val.txt and test.txt`, each file records the image names (XXX.png) in the change detection dataset.
 
-
+---
 ## Citation
 
 ```
@@ -92,7 +97,7 @@ Change detection data set with pixel-level binary labels；
 
 ### Contact
 
-If you have any question, please feel free to contact the authors. Mustansar Fiaz: [mustansar.fiaz@mbzuai.ac.ae](mailto:mustansar.fiaz@mbzuai.ac.ae) or Mubashir Noman: [mubashir.noman@mbzuai.ac.ae](mailto:mubashir.noman@mbzuai.ac.ae).
+If you have any question, please feel free to contact the authors. Mustansar Fiaz: [mustansar.fiaz@mbzuai.ac.ae](mailto:mustansar.fiaz@ibm.com) or Mubashir Noman: [mubashir.noman@mbzuai.ac.ae](mailto:mubashir.noman@mbzuai.ac.ae).
 
 ## References
 Our code is based on [Changebind](https://github.com/techmn/changebind) repository. 

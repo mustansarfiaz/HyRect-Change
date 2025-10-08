@@ -1,4 +1,3 @@
-<img width="461" height="175" alt="image" src="https://github.com/user-attachments/assets/969dc2e9-cdeb-4575-8579-7788658e6a48" /># HyRect-Change
 # HYRET-CHANGE: A HYBRID RETENTIVE NETWORK FOR REMOTE SENSING CHANGE DETECTION
 
 This repo contains the official **PyTorch** code for HYRET-CHANGE: A HYBRID RETENTIVE NETWORK FOR REMOTE SENSING CHANGE DETECTION [[Arxiv]](https://arxiv.org/pdf/2506.12836). 

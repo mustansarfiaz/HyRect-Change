@@ -32,7 +32,7 @@ if __name__ == '__main__':
     parser = ArgumentParser()
     parser.add_argument('--gpu_ids', type=str, default='0,1', help='gpu ids: e.g. 0  0,1,2, 0,2. use -1 for CPU')
     parser.add_argument('--project_name', default='hyret_levir', type=str)
-    parser.add_argument('--checkpoint_root', default='./checkpoints_t0', type=str)
+    parser.add_argument('--checkpoint_root', default='./checkpoints', type=str)
     parser.add_argument('--vis_root', default='./vis', type=str)
 
     # data

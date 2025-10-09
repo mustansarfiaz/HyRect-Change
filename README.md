@@ -64,33 +64,38 @@ Change detection data set with pixel-level binary labels；
 ## Citation
 
 ```
-@article{fiaz2025hyret,
+@inproceedings{fiaz2025hyret,
   title={HyRet-Change: A hybrid retentive network for remote sensing change detection},
   author={Fiaz, Mustansar and Noman, Mubashir and Debary, Hiyam and Ali, Kamran and Cholakkal, Hisham},
-  journal={arXiv preprint arXiv:2506.12836},
-  year={2025}
+  booktitle={IGARSS 2025-2025 IEEE International Geoscience and Remote Sensing Symposium},
+  year={2025},
+  publisher={IEEE}
 }
-@misc{changebind2024,
-  title={ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection}, 
-  author={Mubashir Noman and Mustansar Fiaz and Hisham Cholakkal},
+@inproceedings{noman2024changebind,
+  title={Changebind: A hybrid change encoder for remote sensing change detection},
+  author={Noman, Mubahsir and Fiaz, Mustansar and Cholakkal, Hisham},
+  booktitle={IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={8417--8422},
   year={2024},
-  eprint={2404.17565},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
-  url={https://arxiv.org/abs/2404.17565}, 
+  organization={IEEE}
 }
 @article{noman2024elgc,
-  title={ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection},
+  title={ELGC-Net: Efficient local--global context aggregation for remote sensing change detection},
   author={Noman, Mubashir and Fiaz, Mustansar and Cholakkal, Hisham and Khan, Salman and Khan, Fahad Shahbaz},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={62},
+  pages={1--11},
   year={2024},
   publisher={IEEE}
 }
-@inproceedings{noman2023scratchformer,
-  title={Remote Sensing Change Detection with Transformers Trained from Scratch},
+@article{noman2024remote,
+  title={Remote sensing change detection with transformers trained from scratch},
   author={Noman, Mubashir and Fiaz, Mustansar and Cholakkal, Hisham and Narayan, Sanath and Anwer, Rao Muhammad and Khan, Salman and Khan, Fahad Shahbaz},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2024}
+  volume={62},
+  pages={1--14},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
